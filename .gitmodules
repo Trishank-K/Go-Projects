@@ -1,0 +1,12 @@
+[submodule "01GoServer"]
+	path = 01GoServer
+	url = https://github.com/Trishank-K/GoServer
+[submodule "02CrudAPI"]
+	path = 02CrudAPI
+	url = https://github.com/Trishank-K/CrudAPI
+[submodule "03BookManagementSystem"]
+	path = 03BookManagementSystem
+	url = https://github.com/Trishank-K/BookStore
+[submodule "04MongoCRUD"]
+	path = 04MongoCRUD
+	url = https://github.com/Trishank-K/CRUD-Mongo
