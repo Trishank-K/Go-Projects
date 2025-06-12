@@ -1,12 +1,16 @@
 [submodule "01GoServer"]
 	path = 01GoServer
 	url = https://github.com/Trishank-K/GoServer
+	branch = main
 [submodule "02CrudAPI"]
 	path = 02CrudAPI
 	url = https://github.com/Trishank-K/CrudAPI
+	branch = main
 [submodule "03BookManagementSystem"]
 	path = 03BookManagementSystem
 	url = https://github.com/Trishank-K/BookStore
+	branch = main
 [submodule "04MongoCRUD"]
 	path = 04MongoCRUD
 	url = https://github.com/Trishank-K/CRUD-Mongo
+	branch = main
