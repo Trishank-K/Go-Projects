@@ -21,3 +21,4 @@
 [submodule "06EmailVerifier"]
 	path = 06EmailVerifier
 	url = https://github.com/Trishank-K/EmailVerifier
+	branch = main
