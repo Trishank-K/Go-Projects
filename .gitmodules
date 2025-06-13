@@ -17,3 +17,4 @@
 [submodule "05GoPostgres"]
 	path = 05GoPostgres
 	url = https://github.com/Trishank-K/GoPostgres
+	branch = main
