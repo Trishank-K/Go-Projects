@@ -27,7 +27,7 @@ echo "Submodule added locally."
 
 echo "Setting submodule to track branch '$BRANCH_NAME'..."
 if git --version | grep -q "git version 2\.[2-9][2-9]\|git version [3-9]\.[0-9]\."; then
-  git submodule set-branch "$BRANCH_NAME" "$LOCAL_PATH"
+  git submodule set-branch --branch "$BRANCH_NAME" "$LOCAL_PATH"
 else
   
   git config -f .gitmodules submodule."$LOCAL_PATH".branch "$BRANCH_NAME"

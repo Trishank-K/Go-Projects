@@ -18,3 +18,6 @@
 	path = 05GoPostgres
 	url = https://github.com/Trishank-K/GoPostgres
 	branch = main
+[submodule "06EmailVerifier"]
+	path = 06EmailVerifier
+	url = https://github.com/Trishank-K/EmailVerifier
