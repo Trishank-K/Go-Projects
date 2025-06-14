@@ -22,3 +22,15 @@
 	path = 06EmailVerifier
 	url = https://github.com/Trishank-K/EmailVerifier
 	branch = main
+[submodule "07SlackFileBot"]
+	path = 07SlackFileBot
+	url = https://github.com/Trishank-K/SlackFileBot
+	branch = main
+[submodule "08"]
+	path = 08
+	url = https://github.com/Trishank-K/SlackAgeBot
+	branch = main
+[submodule "08SlackAgeBot"]
+	path = 08SlackAgeBot
+	url = https://github.com/Trishank-K/SlackAgeBot
+	branch = main
